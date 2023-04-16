@@ -1,5 +1,5 @@
 ### Hi there, I'm Maciej knows as Sekul!
-I'm from Poland and I'm 18 years old
+I'm from Poland and I'm 18 years old. I'm going to be a FullStack Developer.
 
 ---
 
@@ -28,6 +28,7 @@ I'm from Poland and I'm 18 years old
 ![](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 #### IDEs & EDITORS
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
