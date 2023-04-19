@@ -50,7 +50,3 @@ I'm from Poland and I'm 18 years old. I'm going to be a FullStack Developer.
 ![](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
----
-
-![](https://github-readme-stats.vercel.app/api?username=SekulDev&count_private=true&show_icons=true&theme=dark)
