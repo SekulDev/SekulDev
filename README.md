@@ -1,5 +1,5 @@
 ### Hi there, I'm Maciej knows as Sekul!
-I'm from Poland and I'm 18 years old. I'm going to be a FullStack Developer.
+I'm from Poland and I'm 19 years old. I'm going to be a FullStack Developer.
 
 ---
 
