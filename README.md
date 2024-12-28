@@ -65,9 +65,8 @@ I'm open to feedback and collaboration, so feel free to reach out—let's create
 <details>
     <summary>Work In Progress projects</summary><br/>
     <ul>
-      <li>Learning platform - Techstack: Laravel, React, PostgreSQL, Docker, Nginx<br/><br/>
-      This project is scalable application make with DDD, hexagonal architecture. The app is a place where teachers can create groups and share lessons for their groups (scheduler publishing lessons in specific time). Writing lessons is very enjoyable, because of full markdown editor (formatting, colourful syntax of languages, paste screenshots etc). Users receive notifications about publishing new lesson. Notifications are scalable with Pusher
-      <br/>When I finish the project, it will be open source</li><br/>
+      <li><a href="https://github.com/SekulDev/learning_platform">Learning platform</a> - Techstack: Laravel, React, PostgreSQL, Docker, Nginx<br/><br/>
+      This project is scalable application make with DDD, hexagonal architecture. The app is a place where teachers can create groups and share lessons for their groups (scheduler publishing lessons in specific time). Writing lessons is very enjoyable, because of full markdown editor (formatting, colourful syntax of languages, paste screenshots etc). Users receive notifications about publishing new lesson. Notifications are scalable with Pusher</li><br/>
       <li>Logs - Techstack: Java (SpringBoot), Python, ElasticSearch, PostgreSQL, Kafka<br/><br/>
       This project is scalable platform, where users can create organisations (and manage people in organisations and their permissions), send logs to them with API, search and filter logs with advanced filters. This project will be make with DDD, hexagonal architecture, CQRS and microservices. The goal of project is try to work with very scalable and distributed application. I'll use the Saga Pattern to take care of data consistency. I want to prepare AWS architecture for this distributed app
     <br/>When I finish the project, it will be open source</li>
